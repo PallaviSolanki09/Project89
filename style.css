@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(218, 230, 173);
+}
+
+.login_div{
+    background-color:rgb(216, 169, 14);
+    float: none;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#player_1 , #player_2{
+    display: inline-block;
+}
+
+#lg_btn{
+    width: 30%;
+    font-size: 18px;
+}
+h1{
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+}
